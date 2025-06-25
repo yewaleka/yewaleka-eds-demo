@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/yewaleka/yewaleka-eds-demo/
+    type: markup
+
+folders:
+  /products/: /products/default
